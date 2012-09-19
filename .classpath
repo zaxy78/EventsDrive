@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-api-client-android-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-api-client-android2-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-http-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-http-client-android2-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-http-client-android3-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/google-oauth-client-1.11.0-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/gson-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/guava-11.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/jackson-core-asl-1.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/jackson-mapper-asl-1.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/protobuf-java-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/spring-android-core-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/spring-android-rest-template-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/EventDrive/libs/usergrid-android-client-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/Google API/drive/google-api-services-drive-v2-rev5-1.7.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/Google API/drive/google-api-services-drive-v2-rev5-1.7.2-beta-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Projects/Google GDG/Google API/drive/google-api-services-drive-v2-rev5-1.7.2-beta-sources.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
